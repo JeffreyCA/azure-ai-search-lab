@@ -23,12 +23,12 @@
         "gptModelName": {
             "type": "String",
             "minLength": 1,
-            "defaultValue": "gpt-35-turbo"
+            "defaultValue": "gpt-4o"
         },
         "gptModelVersion": {
             "type": "String",
             "minLength": 1,
-            "defaultValue": "0301"
+            "defaultValue": "2024-08-06"
         },
         "searchServiceSku": {
             "type": "String",
@@ -172,7 +172,7 @@
             "location": "[resourceGroup().location]",
             "kind": "linux",
             "sku": {
-                "Name": "EP1"
+                "Name": "Y1"
             },
             "properties": {
                 "reserved": true
