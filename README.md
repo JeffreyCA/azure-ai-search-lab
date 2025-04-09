@@ -84,7 +84,7 @@ This means the following Azure region and model combinations are currently suppo
 
 Once you've decided on a region, you can deploy the solution with its default parameters, or change these for your specific needs.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjelledruyts%2Fazure-ai-search-lab%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJeffreyCA%2Fazure-ai-search-lab%2Fmain%2Fazuredeploy.json)
 
 The following deployment parameters are used:
 
